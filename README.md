@@ -7,7 +7,7 @@ ProxyRack claims to serve more than 800 million API requests per day, and while 
 
 ### Video Demo ###
 In this demo, Proxycrack is used as part of a software for scrapping all comments of a given Facebook post.
-[![Demo Video](https://img.youtube.com/)](https://youtu.be/CTU36aWnndE)
+[![Demo Video](http://i3.ytimg.com/vi/CTU36aWnndE/maxresdefault.jpg)](https://youtu.be/CTU36aWnndE)
 
 Proxyrack Demo is a Command Line based software component created for the purpose of demonstration of the Proxyrack SDK using C++ (Visual Studio C++) and LibCurl.
  
