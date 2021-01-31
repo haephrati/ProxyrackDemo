@@ -18,3 +18,7 @@ The **WriteLogFile()** function is used instead of wprintf() and carries the tas
 -	The Software was developed using Visual Studio Enterprise C++ 2017.
 -	[LibCurl](https://curl.se/libcurl/) is used as a static library.
 
+## Unit tests
+
+`Tests/ProxyrackTests` checks the default log filename and POST/HTTPS/JSON field string constants. Build Release|x64.
+
