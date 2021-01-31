@@ -6,7 +6,8 @@ ProxyRack claims to serve more than 800 million API requests per day, and while 
 :point_right: Proxycrack Open Source code samples can be found [here](https://github.com/proxyrackdev/API-Examples).
 
 ### Video Demo ###
-[![Demo Video](https://ibb.co/0BrcRC5](https://youtu.be/CTU36aWnndE)
+In this demo, Proxycrack is used as part of a software for scrapping all comments of a given Facebook post.
+[![Demo Video](https://img.youtube.com/)](https://youtu.be/CTU36aWnndE)
 
 Proxyrack Demo is a Command Line based software component created for the purpose of demonstration of the Proxyrack SDK using C++ (Visual Studio C++) and LibCurl.
  
