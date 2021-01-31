@@ -5,7 +5,7 @@ ProxyRack claims to serve more than 800 million API requests per day, and while 
 
 :point_right: Proxycrack Open Source code samples can be found [here](https://github.com/proxyrackdev/API-Examples).
 
-Proxyrack Demo is a Command Line based software component created for the purpose of demonstration of the ABBYY OCR SDK using C++ (Visual Studio C++) and LibCurl.
+Proxyrack Demo is a Command Line based software component created for the purpose of demonstration of the Proxyrack SDK using C++ (Visual Studio C++) and LibCurl.
  
 ## Logging
 The **WriteLogFile()** function is used instead of wprintf() and carries the task of displaying debug messages in the DEBUG version and writing to a log file (in both DEBUG / RELEASE versions). 
